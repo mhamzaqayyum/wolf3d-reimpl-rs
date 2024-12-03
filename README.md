@@ -1,6 +1,6 @@
 # Wolfenstein 3D Re-implementation
 
-<img src="https://github.com/mhamzaqayyum/wolf3d-clone-rs/assets/25702188/8a718a7b-a9b0-4114-8764-75b5e1ef89c9" width=350/>
+<img src="https://github.com/user-attachments/assets/1c4f29d9-55a0-46e8-aead-67c5d112de8c" width=350/>
 
 An in-progress, from-scrach, re-implementation of the FPS-genre pioneering game, [_Wolfenstein 3D_](https://en.wikipedia.org/wiki/Wolfenstein_3D), released by id Software in 1992, in Rust.
 The goal is to re-implement all of the game's original functionality, as well as potentially add custom features like networked multiplayer.
