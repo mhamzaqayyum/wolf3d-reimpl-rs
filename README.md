@@ -1,12 +1,12 @@
 # Wolfenstein 3D Re-implementation
 
-<img src="https://github.com/e6quisitory/wolf3d-clone-rs/assets/25702188/8a718a7b-a9b0-4114-8764-75b5e1ef89c9" width=350/>
+<img src="https://github.com/mhamzaqayyum/wolf3d-clone-rs/assets/25702188/8a718a7b-a9b0-4114-8764-75b5e1ef89c9" width=350/>
 
 An in-progress, from-scrach, re-implementation of the FPS-genre pioneering game, [_Wolfenstein 3D_](https://en.wikipedia.org/wiki/Wolfenstein_3D), released by id Software in 1992, in Rust.
 The goal is to re-implement all of the game's original functionality, as well as potentially add custom features like networked multiplayer.
 
 ## Current Engine Demo
-https://github.com/e6quisitory/wolf3d-clone-rs/assets/25702188/c84cd321-ca95-4f4e-8ccf-91a684fb45e7
+https://github.com/mhamzaqayyum/wolf3d-clone-rs/assets/25702188/c84cd321-ca95-4f4e-8ccf-91a684fb45e7
 
 ### Remaining Features to Implement
 - [ ] Enemy AI
