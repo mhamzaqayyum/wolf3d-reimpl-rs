@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/1c4f29d9-55a0-46e8-aead-67c5d112de8c" width=350/>
 
-An in-progress, from-scrach, re-implementation of the FPS-genre pioneering game, [_Wolfenstein 3D_](https://en.wikipedia.org/wiki/Wolfenstein_3D), released by id Software in 1992, in Rust.
+An in-progress, from-scratch, re-implementation of the FPS-genre pioneering game, [_Wolfenstein 3D_](https://en.wikipedia.org/wiki/Wolfenstein_3D), released by id Software in 1992, in Rust.
 The goal is to re-implement all of the game's original functionality, as well as potentially add custom features like networked multiplayer.
 
 ## Current Engine Demo
@@ -41,7 +41,7 @@ cargo run --release
 - `Esc` to quit game
 
 ## What is written from scratch, what isn't
-The core game logic and the rendering algorithm are written from scratch. The things not written from scrach are opening a window, putting pixels into it, reading mouse and keyboard inputs, managing textures, GPU-accelerated texture scaling, and doing all this in a cross-platform manner. To do all this for me, I'm using the excellent [SDL](https://github.com/libsdl-org/SDL) library. Doing all these tasks from scratch as well would be an interesting challenge, but I feel that would stray from the scope of the project.
+The core game logic and the rendering algorithm are written from scratch. The things not written from scratch are opening a window, putting pixels into it, reading mouse and keyboard inputs, managing textures, GPU-accelerated texture scaling, and doing all this in a cross-platform manner. To do all this for me, I'm using the excellent [SDL](https://github.com/libsdl-org/SDL) library. Doing all these tasks from scratch as well would be an interesting challenge, but I feel that would stray from the scope of the project.
 
 ## Credits & Disclaimer
 As this is a re-implementation of a classic game, I'd like to state the obvious and say that this isn't "my" game. It is id Software's game, released by them in 1992. The entire concept of the game, the design, the mechanics, all of the artwork, is most definitely not my creation, it is theirs.
