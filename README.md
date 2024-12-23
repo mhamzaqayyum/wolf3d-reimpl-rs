@@ -28,7 +28,7 @@ https://github.com/mhamzaqayyum/wolf3d-clone-rs/assets/25702188/c84cd321-ca95-4f
 - [x] Shooting at enemies
 
 ## Build Instructions
-Assuming you have `rustc` and `cargo` installed (through `rustup`, most likely), as well as [SDL2](https://github.com/libsdl-org/SDL/releases), clone this repo, then, from its root, run the following command.
+Assuming you have `rustc` and `cargo` installed (through `rustup`, most likely), as well as [SDL](https://github.com/libsdl-org/SDL/releases) and [SDL_image](https://github.com/libsdl-org/SDL_image/releases), clone this repo, then, from its root, run the following command.
 ```
 cargo run --release
 ```
