@@ -27,8 +27,16 @@ https://github.com/mhamzaqayyum/wolf3d-clone-rs/assets/25702188/c84cd321-ca95-4f
 - [x] Walking enemies
 - [x] Shooting at enemies
 
-## Build Instructions
-Assuming you have `rustc` and `cargo` installed (through `rustup`, most likely), as well as [SDL](https://github.com/libsdl-org/SDL/releases) and [SDL_image](https://github.com/libsdl-org/SDL_image/releases), clone this repo, then, from its root, run the following command.
+## macOS Build Instructions
+```
+brew install sdl2 sdl2_image
+```
+Might need these in your `~/.zshrc`:
+```
+export LIBRARY_PATH="$LIBRARY_PATH:/opt/homebrew/lib"
+export LIBRARY_PATH="$LIBRARY_PATH:/usr/local/lib"
+```
+Then, from the root of this repo:
 ```
 cargo run --release
 ```
